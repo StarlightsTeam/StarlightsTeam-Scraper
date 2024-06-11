@@ -1,2 +1,3 @@
-# StarlightsTeam-Scraper
-Scraper By StarlightsTeam
+<h1 align="center">‧ ⭐ Starlights Team - Scraper ⭐ ‧
+</p>
+<p>
