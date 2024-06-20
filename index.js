@@ -1,4 +1,4 @@
-var { aptoide, danbooru, fbdl, GDriveDl, GoogleImage, igdl, igstalk, mediafire, openAi, rule34, tiktokdl, pinterest, ppcouple, spotifySearch, spotify, soundSearch, xnxxdl, xvideosdl, ytsearch, ytmp3, ytmp4 } = require("./starlights")
+var { aptoide, danbooru, fbdl, GDriveDl, GoogleImage, igdl, igstalk, mediafire, openAi, rule34, tiktokdl, tiktokuser, tiktokvid, tiktokSearch, pinterest, ppcouple, spotifySearch, spotify, soundSearch, xnxxdl, xvideosdl, ytsearch, ytmp3, ytmp4 } = require("./starlights")
 
 module.exports = {
     aptoide: aptoide,
@@ -15,6 +15,9 @@ module.exports = {
     spotify: spotify,
     soundSearch: soundSearch,
     tiktokdl: tiktokdl,
+    tiktokuser: tiktokuser,
+    tiktokvid: tiktokvid,
+    tiktokSearch: tiktokSearch,
     pinterest: pinterest,
     ppcouple: ppcouple,
     xnxxdl: xnxxdl,
