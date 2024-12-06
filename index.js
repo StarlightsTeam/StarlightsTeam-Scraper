@@ -1,4 +1,4 @@
-var { aptoide, aptoidedl, aptoideSearch, characterAi, danbooru, fbdl, kwaidl, GDriveDl, GoogleImage, igdl, igstalk, mediafire, mediafireV2, Nationality, openAi, ChatGpt, ChatGptV2, rule34, tiktokdl, tiktokdlV2, tiktokuser, tiktokvid, tiktokStalk, tiktokSearch, pinterest, pinterestdl, ppcouple, spotifySearch, spotify, spotifydl, xnxxdl, xvideosdl, ytsearch, ytmp3, ytmp3v2, ytmp4, ytmp4v2 } = require("./starlights")
+var { aptoide, aptoidedl, aptoideSearch, characterAi, danbooru, fbdl, kwaidl, GDriveDl, GoogleImage, igdl, igstalk, mediafire, mediafireV2, Nationality, openAi, ChatGpt, ChatGptV2, rule34, tiktokdl, tiktokdlV2, tiktokuser, tiktokvid, tiktokStalk, tiktokSearch, pinterest, pinterestdl, ppcouple, spotifySearch, spotify, spotifydl, xnxxdl, xvideosdl, ytsearch, ytmp3, ytmp4 } = require("./starlights")
 
 module.exports = {
     aptoide: aptoide,
@@ -35,7 +35,5 @@ module.exports = {
     xvideosdl: xvideosdl,
     ytsearch: ytsearch,
     ytmp3: ytmp3,
-    ytmp3v2: ytmp3v2,
-    ytmp4: ytmp4,
-    ytmp4v2: ytmp4v2
+    ytmp4: ytmp4
 }
